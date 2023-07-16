@@ -24,6 +24,11 @@ body {
 
 .link {
   text-decoration: none;
+  color: var(--blue-color);
+}
+
+.link:focus {
+  color: var(--blue-color);
 }
 
 .logo-span {
@@ -40,15 +45,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--black-color);
-}
-
-.link {
-  text-decoration: none;
-  color: var(--blue-color);
-}
-
-.link:focus {
-  color: var(--blue-color);
 }
 
 .address {
