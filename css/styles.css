@@ -85,15 +85,12 @@ body {
   cursor: pointer;
 }
 
-.first-section-button:hover {
-  background-color: var(--blue-color);
-}
-
+.first-section-button:hover,
 .first-section-button:focus {
   background-color: var(--blue-color);
 }
 
-.second-section-h {
+.section-h {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -108,7 +105,7 @@ body {
   color: var(--black-color);
 }
 
-.second-section-p {
+.section-p {
   font-size: 16px;
   line-height: 1.5;
   color: var(--second-black-color);
@@ -138,13 +135,7 @@ body {
 .forth-section-li {
   background-color: #ffffff;
 }
-.forth-section-li-h {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--black-color);
-}
+
 .forth-section-li-p {
   font-size: 16px;
   line-height: 1.5;
@@ -158,4 +149,20 @@ body {
   line-height: 1.5;
   color: var(--white-color);
   letter-spacing: 0.02em;
+}
+.portfolio-first-section-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  color: var(--second-blue-color);
+  background-color: #f4f4fd;
+  cursor: pointer;
+}
+.portfolio-first-section-button:hover,
+.portfolio-first-section-button:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
