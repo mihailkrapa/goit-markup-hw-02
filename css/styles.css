@@ -23,7 +23,12 @@ body {
 }
 
 .link {
-  text-decoration: none; 
+  text-decoration: none;
+  color: var(--blue-color);
+}
+
+.link:focus {
+  color: var(--blue-color);
 }
 
 .logo-span {
