@@ -8,7 +8,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  /* color: var(--second-black-color); */
+  color: var(--second-black-color);
   background-color: #ffffff;
 }
 
@@ -19,20 +19,15 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  /* color: var(--second-blue-color); */
+  color: var(--second-blue-color);
 }
 
 .link {
-  text-decoration: none;
-  color: var(--blue-color);
-}
-
-.link:focus {
-  color: var(--blue-color);
+  text-decoration: none; 
 }
 
 .logo-span {
-  /* color: var(--black-color); */
+  color: var(--black-color);
 }
 
 .list {
@@ -44,7 +39,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  /* color: var(--black-color); */
+  color: var(--black-color);
 }
 
 .address {
@@ -55,11 +50,11 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  /* color: var(--second-black-color); */
+  color: var(--second-black-color);
 }
 
 .first-section {
-  /* background-color: var(--black-color); */
+  background-color: var(--black-color);
 }
 
 .first-section-h {
@@ -71,7 +66,7 @@ body {
 }
 
 .first-section-button {
-  /* background-color: var(--second-blue-color); */
+  background-color: var(--second-blue-color);
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -83,7 +78,7 @@ body {
 
 .first-section-button:hover,
 .first-section-button:focus {
-  /* background-color: var(--blue-color); */
+  background-color: var(--blue-color);
 }
 
 .section-h {
@@ -98,13 +93,13 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  /* color: var(--black-color); */
+  color: var(--black-color);
 }
 
 .section-p {
   font-size: 16px;
   line-height: 1.5;
-  /* color: var(--second-black-color); */
+  color: var(--second-black-color);
   letter-spacing: 0.02em;
 }
 
@@ -114,11 +109,11 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  /* color: var(--black-color); */
+  color: var(--black-color);
 }
 
 .forth-section {
-  /* background-color: var(--white-color); */
+  background-color: var(--white-color);
 }
 
 .forth-section-h {
@@ -127,7 +122,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  /* color: var(--black-color); */
+  color: var(--black-color);
 }
 .forth-section-li {
   background-color: #ffffff;
@@ -137,14 +132,14 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  /* color: var(--second-blue-color); */
+  color: var(--second-blue-color);
 }
 .footer {
-  /* background-color: var(--black-color); */
+  background-color: var(--black-color);
 }
 .footer-p {
   line-height: 1.5;
-  /* color: var(--white-color); */
+  color: var(--white-color);
   letter-spacing: 0.02em;
 }
 .portfolio-first-section-button {
@@ -154,7 +149,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
-  /* color: var(--second-blue-color); */
+  color: var(--second-blue-color);
   background-color: #f4f4fd;
   cursor: pointer;
 }
