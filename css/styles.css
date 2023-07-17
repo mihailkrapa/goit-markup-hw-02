@@ -97,11 +97,10 @@ body {
   letter-spacing: 0.02em;
 }
 
-.section-p {
-  font-size: 16px;
+.section-paragraph {
   line-height: 1.5;
   color: var(--second-black-color);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.32px;
 }
 
 .third-section-h {
