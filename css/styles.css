@@ -18,6 +18,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: var(--second-black-color);
   background-color: #ffffff;
+
 }
 
 .logo {
@@ -101,6 +102,7 @@ body {
   line-height: 1.5;
   color: var(--second-black-color);
   letter-spacing: 0.32px;
+  font-size: 16px;
 }
 
 .third-section-h {
