@@ -25,6 +25,9 @@ body {
 .link {
   text-decoration: none; 
 }
+.link:focus {
+  color: var(--blue-color);
+}
 
 .logo-span {
   color: var(--black-color);
