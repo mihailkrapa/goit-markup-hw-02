@@ -11,6 +11,9 @@
 .blue-color{
   color: var(--blue-color);
 }
+.second-black-color{
+  color: var(--second-black-color);
+}
 body {
   font-family: "Roboto", sans-serif;
   color: var(--second-black-color);
