@@ -5,15 +5,7 @@
   --second-black-color: #434455;
   --white-color: #f4f4fd;
 }
-.black-color{
-  color: var(--black-color);
-}
-.blue-color{
-  color: var(--blue-color);
-}
-.second-black-color{
-  color: var(--second-black-color);
-}
+
 body {
   font-family: "Roboto", sans-serif;
   color: var(--second-black-color);
