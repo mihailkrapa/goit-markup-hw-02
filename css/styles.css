@@ -88,7 +88,7 @@ body {
   background-color: var(--blue-color);
 }
 
-.section-title-sub {
+.section-title-sub, .title-team {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
